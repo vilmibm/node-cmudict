@@ -1,0 +1,19 @@
+{ "name" :            "cmudict"
+, "description" :     "A node.js wrapper around the CMU Pronunciation Dictionary"
+, "keywords" :        ["cmudict", "nlp", "language", "linguistics", "english"]
+, "version" :         "1.0.0"
+, "author" :          "Nathaniel K Smith <nathanielksmith@gmail.com> (http://chiptheglasses.com)"
+, "repository" :    { "type" :  "git"
+                    , "url" :   "http://github.com/nathanielksmith/node-cmudict" }
+, "bugs" :          { "mail" :  "nathanielksmith@gmail.com"
+                    , "web" :   "http://github.com/nathanielksmith/node-cmudict/issues" }
+, "os" :            [ "linux"
+                    , "darwin"
+                    , "freebsd" ]
+, "config":         { "native" : false }
+, "main":             "./lib/cmudict"
+, "directories" :   { "lib" : "./lib/cmudict" }
+, "engines" :       { "node" : ">=0.4.0" }
+, "licenses" :    [ { "type" :  "Creative Commons Attribution-ShareAlike 3.0"
+                    , "url" :   "http://creativecommons.org/licenses/by-sa/3.0/" } ]
+}
