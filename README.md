@@ -15,6 +15,10 @@ Usage
 Counting syllables and determining the end rhyme is an exercise left up to the
 reader as there are a number of ways to do this.  (see:  [Word Hy-phen-a-tion by Com-put-er](http://www.tug.org/docs/liang/)).
 
+Installation
+------------
+`npm install cmudict`
+
 Performance
 -----------
 The dictionary is a huge flatfile. It is lazily read into memory upon the first
