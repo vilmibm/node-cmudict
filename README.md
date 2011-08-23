@@ -8,12 +8,12 @@ have to improvise.
 
 Usage
 -----
-`var CMUDict = require('cmudict').CMUDict;
-var cmudict = new CMUDict();
-var phoneme_str = cmudict.get('prosaic'); // 'P R OW0 Z EY1 IH0 K'`
+    var CMUDict = require('cmudict').CMUDict;
+    var cmudict = new CMUDict();
+    var phoneme_str = cmudict.get('prosaic'); // 'P R OW0 Z EY1 IH0 K'
 
 Counting syllables and determining the end rhyme is an exercise left up to the
-reader as there are a number of ways to do this.  (see:  [Word Hy-phen-a-tion by Com-put-er](http://www.tug.org/docs/liang/).
+reader as there are a number of ways to do this.  (see:  [Word Hy-phen-a-tion by Com-put-er](http://www.tug.org/docs/liang/)).
 
 Performance
 -----------
