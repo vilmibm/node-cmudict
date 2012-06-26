@@ -9,7 +9,9 @@
                     , "web" :   "http://github.com/nathanielksmith/node-cmudict/issues" }
 , "os" :            [ "linux"
                     , "darwin"
-                    , "freebsd" ]
+                    , "freebsd"
+                    , "solaris"
+                    , "sunos" ]
 , "config":         { "native" : false }
 , "main":             "./lib/cmudict"
 , "directories" :   { "lib" : "./lib/cmudict" }
