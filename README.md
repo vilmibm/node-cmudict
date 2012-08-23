@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nathanielksmith/node-cmudict.png)](http://travis-ci.org/nathanielksmith/node-cmudict)
 node-cmudict
 ============
 cmudict is a basic wrapper around the [CMU Pronouncing Dictonary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict). The purpose of this
