@@ -1,6 +1,6 @@
 var assert = require('assert');
 
-var CMUDict = require('../cmudict').CMUDict;
+var CMUDict = require('../lib/cmudict').CMUDict;
 
 var c = new CMUDict();
 
