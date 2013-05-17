@@ -7,12 +7,6 @@
                     , "url" :   "http://github.com/nathanielksmith/node-cmudict" }
 , "bugs" :          { "mail" :  "nathanielksmith@gmail.com"
                     , "web" :   "http://github.com/nathanielksmith/node-cmudict/issues" }
-, "os" :            [ "linux"
-                    , "darwin"
-                    , "freebsd"
-                    , "solaris"
-                    , "sunos"
-                    , "win32" ]
 , "config":         { "native" : false }
 , "main":             "./lib/cmudict"
 , "directories" :   { "lib" : "./lib/cmudict" }
